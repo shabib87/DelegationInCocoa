@@ -1,6 +1,6 @@
 # DelegationInCocoa
 
-This is a simple example to help you understand Objectve-C protocol and delegation. It's the source code to accompany the tutorial at http://codewithshabib
+This is a simple example to help you understand Objectve-C protocol and delegation. It's the source code to accompany the tutorial at [https://codewithshabib.com/2016/11/02/delegation-in-ios-and-cocoa/](https://codewithshabib.com/2016/11/02/delegation-in-ios-and-cocoa/).
 
 ## Author
 
